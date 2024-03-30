@@ -41,3 +41,41 @@
 display: flex;
 justify-content: space-evenly;
 }
+#blogbackground{
+    background-image: url(images/florence.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 500px;
+    height: 610px;
+    
+}
+#blog{
+    display: flex;
+    justify-content: center;
+    gap:20px;
+}
+#Questions{
+    display: flex;
+    justify-content: space-around;
+    background-color: #ff9412;
+    border-radius: 10px;
+    height: 300px;
+}
+#form{
+    border: white;
+    background-color: aliceblue;
+    width: 250px;
+}
+#beforefooter{
+background-image: url(images/lastpicc.avif);
+background-repeat: no-repeat;
+background-size: cover;
+height: 400px;
+}
+#wordss{
+    text-align: center;
+}
+#footer{
+    display: flex;
+    justify-content: space-evenly;
+}
